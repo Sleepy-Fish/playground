@@ -1,6 +1,6 @@
-[gd_scene load_steps=4 format=3]
+[gd_scene load_steps=4 format=3 uid="uid://1jlfg7xgargc"]
 
-[ext_resource type="Texture2D" path="res://tilemap/tiles/template-sheet.png" id="template"]
+[ext_resource type="Texture2D" uid="uid://c3gb0t81res2v" path="res://tilemap/tiles/template-sheet.png" id="template"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_0"]
 texture = ExtResource("template")
@@ -112,14 +112,24 @@ texture_region_size = Vector2i(32, 32)
 9:6/0 = 0
 10:6/0 = 0
 11:6/0 = 0
+12:6/0 = 0
+13:6/0 = 0
 14:6/0 = 0
 15:6/0 = 0
-14:7/0 = 0
-15:7/0 = 0
+0:7/0 = 0
+1:7/0 = 0
+2:7/0 = 0
+3:7/0 = 0
+4:7/0 = 0
+5:7/0 = 0
+6:7/0 = 0
+7:7/0 = 0
+8:7/0 = 0
+9:7/0 = 0
+10:7/0 = 0
+11:7/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_0"]
-tile_shape = 0
-tile_layout = 0
 tile_size = Vector2i(32, 32)
 sources/0 = SubResource("TileSetAtlasSource_0")
 
