@@ -1,0 +1,8 @@
+# Godot
+.godot/
+
+# Tiled
+*.tiled-session
+
+# Random
+.DS_Store

@@ -1,0 +1,3 @@
+rules/00-basic.tmx
+rules/01-ramps.tmx
+rules/02-slopes.tmx
